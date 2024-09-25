@@ -1,3 +1,6 @@
+FULL_NAME = "Smart Fan"
+LINK = "https://sequentmicrosystems.com/products/smart-fan-for-raspberry-pi"
+
 import SMsfan
 API = SMsfan
 DOMAIN = "SMsfan"
