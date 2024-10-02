@@ -1,8 +1,8 @@
 FULL_NAME = "Smart Fan"
 LINK = "https://sequentmicrosystems.com/products/smart-fan-for-raspberry-pi"
 
-import SMsfan
-API = SMsfan
+import sfan
+API = sfan
 DOMAIN = "SMsfan"
 NAME_PREFIX = "smsf"
 SM_MAP = {
