@@ -1,6 +1,6 @@
 # Sequent Microsystems Smart Fan Home Assistant Integration
 
-Integrate [Smart Fan](https://sequentmicrosystems.com/products/smart-fan-for-raspberry-pi)
+Integrate [Smart Fan](https://sequentmicrosystems.com/products/smart-fan-hat-for-raspberry-pi)
 seamlessly with Home Assistant, bringing all your custom functionality into the Home Assistant ecosystem for enhanced control, automation, and ease of use.
 
 
